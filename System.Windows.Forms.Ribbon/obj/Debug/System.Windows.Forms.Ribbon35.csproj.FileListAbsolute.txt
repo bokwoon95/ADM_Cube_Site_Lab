@@ -97,3 +97,11 @@ C:\Users\sintemp.it\Desktop\test_full\System.Windows.Forms.Ribbon\obj\Debug\Syst
 C:\Users\sintemp.it\Desktop\test_full\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon35.csproj.CopyComplete
 C:\Users\sintemp.it\Desktop\test_full\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon45.dll
 C:\Users\sintemp.it\Desktop\test_full\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon45.pdb
+C:\Users\sintemp.it\Desktop\ADM_Cube_Site_Lab\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon45.dll
+C:\Users\sintemp.it\Desktop\ADM_Cube_Site_Lab\System.Windows.Forms.Ribbon\bin\Debug\System.Windows.Forms.Ribbon45.pdb
+C:\Users\sintemp.it\Desktop\ADM_Cube_Site_Lab\System.Windows.Forms.Ribbon\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\sintemp.it\Desktop\ADM_Cube_Site_Lab\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon35.csprojAssemblyReference.cache
+C:\Users\sintemp.it\Desktop\ADM_Cube_Site_Lab\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon35.csproj.CoreCompileInputs.cache
+C:\Users\sintemp.it\Desktop\ADM_Cube_Site_Lab\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon35.csproj.CopyComplete
+C:\Users\sintemp.it\Desktop\ADM_Cube_Site_Lab\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon45.dll
+C:\Users\sintemp.it\Desktop\ADM_Cube_Site_Lab\System.Windows.Forms.Ribbon\obj\Debug\System.Windows.Forms.Ribbon45.pdb

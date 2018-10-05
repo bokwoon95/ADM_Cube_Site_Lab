@@ -100,6 +100,39 @@ namespace ADMAPP
 
         }
 
+        void load_debug_DataReceived(object sender, SerialDataReceivedEventArgs e)
+        {
+            try
+            {
+                if (cubeTestingPort.BytesToRead > 0)
+                {
+                    cubeTestingRead = cubeTestingPort.ReadLine();
+                    if (!string.IsNullOrEmpty(cubeTestingRead))
+                    {
+                        display_load_debug(cubeTestingRead);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("load_debug_DataReceived " + ex.Message);
+                cubeTestingLineReadIn = "";
+            }
+        }
+
+        private void display_load_debug(string str)
+        {
+            if (load_debug.InvokeRequired)
+            {
+                preventCrossThreading func = new preventCrossThreading(display_load_debug);
+                this.Invoke(func, new object[] { str });
+            }
+            else
+            {
+                load_debug.Text = str;
+            }
+        }
+
         private void frmADMAPP_Load(object sender, EventArgs e)
         {
 
@@ -2093,7 +2126,7 @@ namespace ADMAPP
                     displayMaxLoadTextReadIn("");
                     MCW1displayData();                    
                 }
-            }            
+            }
 
             //if (cubeTestingLineReadIn == timerRead && cubeTestingLineReadIn != "" && cubeMaxLoad!=0)
             //{

@@ -56,14 +56,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ADMAPP.New.exe" size="161280">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ADMAPP.New.exe" size="162816">
       <assemblyIdentity name="ADMAPP.New" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>yssbWqingiUquyms4Q7U5TLfoT0DSISbxGRNR5lLzIA=</dsig:DigestValue>
+        <dsig:DigestValue>Z2ptQVm8GEeSZvd53RaWj+N5pMnO4v87KG4wEYDRBLM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -111,7 +111,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>rGpwdUBbR3p0b34ubvpzjr6GE9ND1ijyqH3kD+86qO8=</dsig:DigestValue>
+        <dsig:DigestValue>yOQ3Ex1L4FSEmSZAG0THlzcessiO/olJ65qN6o1b5aU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
